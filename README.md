@@ -2,7 +2,7 @@
 a plugin generate random css name for sublime
 
 ## 😇 How to install
-1. Clone or [download](https://github.com/nixend/saber) git repo into your packages folder (in SublimeText find Browse Packages... menu item to open this folder)
+1. Clone or [download](https://github.com/nixend/saber/archive/refs/heads/main.zip) git repo into your packages folder (in SublimeText find Browse Packages... menu item to open this folder)
 2. Restart SublimeText editor
 
 ## 🥲 How to use
